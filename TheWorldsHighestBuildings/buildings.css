@@ -1,0 +1,44 @@
+#background{
+    background-image: linear-gradient(to right,#7db9e8, #1e5799 );
+}
+h1{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 16pt;
+color: #2f4f4f;
+}
+
+.pic{
+    width: 160px;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+
+    color: #2f4f4f;
+   
+    border-bottom: dotted;
+}
+
+li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    text-align: justify;
+}
+
+div{
+    background-image: linear-gradient(#ff7f50, #ffdead );
+    border: 2px #ff7f50 solid ;
+    padding: 0px 10px 10px 10px;
+    margin: 0px 10px 10px 10px;
+    width: 270px;
+    float: left;
+}
